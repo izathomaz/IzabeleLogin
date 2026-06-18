@@ -1,0 +1,15 @@
+com\projetoLoginIzabele\controller\LoginController.class
+com\projetoLoginIzabele\config\CorsConfig.class
+com\projetoLoginIzabele\entity\Login.class
+com\projetoLoginIzabele\entity\Estoque.class
+com\projetoLoginIzabele\ProjetoLoginIzabeleApplication.class
+com\projetoLoginIzabele\repository\EstoqueRepository.class
+com\projetoLoginIzabele\repository\ProdutosRepository.class
+com\projetoLoginIzabele\controller\ProdutosController.class
+com\projetoLoginIzabele\service\ProdutosService.class
+com\projetoLoginIzabele\entity\Produtos.class
+com\projetoLoginIzabele\config\CorsConfig$1.class
+com\projetoLoginIzabele\repository\LoginRepository.class
+com\projetoLoginIzabele\controller\EstoqueController.class
+com\projetoLoginIzabele\service\EstoqueService.class
+com\projetoLoginIzabele\service\LoginService.class
